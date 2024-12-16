@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module n_bit_counter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/register_file.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Documents/cx-204/labs/lab01/task1/top_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

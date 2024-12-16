@@ -28,8 +28,15 @@ module reg_file #(
     end
 
     assign op1 = reg_file[rs1];
+    
     assign op2 = reg_file[rs2];
 
 
 
 endmodule : reg_file
+
+
+module register (
+    input clk, 
+    input rese
+)

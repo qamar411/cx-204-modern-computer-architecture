@@ -2,9 +2,9 @@
 2019.1
 May 24 2019
 14:51:52
-/home/it/Documents/cx-204/labs/lab01/task1/alu.sv,1734331533,systemVerilog,/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv;/home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv;/home/it/Documents/cx-204/labs/lab01/task1/register_file.sv;/home/it/Documents/cx-204/labs/lab01/task1/top.sv;/home/it/Documents/cx-204/labs/lab01/task1/top_tb.sv,/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv,,$unit_alu_sv;alu,,,,,,,,
+/home/it/Documents/cx-204/labs/lab01/task1/alu.sv,1734331594,systemVerilog,/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv;/home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv;/home/it/Documents/cx-204/labs/lab01/task1/register_file.sv;/home/it/Documents/cx-204/labs/lab01/task1/top.sv;/home/it/Documents/cx-204/labs/lab01/task1/top_tb.sv,/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv,,$unit_alu_sv;alu,,,,,,,,
 /home/it/Documents/cx-204/labs/lab01/task1/cx-204-lab01_vivado/cx-204-lab01_vivado.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
-/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv,1734330178,systemVerilog,,/home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv,,imem,,,,,,,,
+/home/it/Documents/cx-204/labs/lab01/task1/instruction_memory.sv,1734331725,systemVerilog,,/home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv,,imem,,,,,,,,
 /home/it/Documents/cx-204/labs/lab01/task1/program_counter.sv,1734329509,systemVerilog,,/home/it/Documents/cx-204/labs/lab01/task1/register_file.sv,,n_bit_counter,,,,,,,,
 /home/it/Documents/cx-204/labs/lab01/task1/register_file.sv,1734330679,systemVerilog,,/home/it/Documents/cx-204/labs/lab01/task1/top.sv,,reg_file,,,,,,,,
 /home/it/Documents/cx-204/labs/lab01/task1/top.sv,1734331482,systemVerilog,,/home/it/Documents/cx-204/labs/lab01/task1/top_tb.sv,,top,,,,,,,,
