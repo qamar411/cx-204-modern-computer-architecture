@@ -32,11 +32,4 @@ module reg_file #(
     assign op2 = reg_file[rs2];
 
 
-
 endmodule : reg_file
-
-
-module register (
-    input clk, 
-    input rese
-)
