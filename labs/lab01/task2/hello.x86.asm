@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"<Your-Name>"
+	.string	"QAMAR MOAVIA"
 	.text
 	.globl	main
 	.type	main, @function

@@ -7,7 +7,7 @@
 	.section	.rodata
 	.align	2
 .LC0:
-	.string	"<Your-Name>"
+	.string	"QAMAR MOAVIA"
 	.text
 	.align	2
 	.globl	main
