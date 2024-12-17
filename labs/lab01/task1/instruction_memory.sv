@@ -10,10 +10,8 @@ module imem #(
 
 
     
-    // initialize instruction memory 
-    initial $readmemb("/home/it/Documents/cx-204/labs/lab01/task1/support_files/fib_im.mem",imem);
-
-    $readmemb("address/file_name",imem)
+    // initialize instruction memory, we have already added the below statement in the testbench, so no need to do that here
+    // initial $readmemb("/home/it/Documents/cx-204/labs/lab01/task1/support_files/fib_im.mem",imem);
 
     // read inst combinatinally ( continous assignment)
     assign inst = imem[addr];
